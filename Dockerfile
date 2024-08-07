@@ -1,1 +1,1 @@
-FROM daocloud.io/lifei6671/mindoc:latest
+FROM registry.cn-hangzhou.aliyuncs.com/mindoc-org/mindoc:v2.1
